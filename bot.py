@@ -3,7 +3,9 @@ from selenium import webdriver
 from time import sleep
 import requests
 
-
+'''
+Need to find a way to have user input, then find on page on drop day. (Get info from lookbook)
+'''
 
 def orderIt(k):
 
